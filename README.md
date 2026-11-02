@@ -4,7 +4,7 @@ A Telegram bot for managing personal events.
 
 ## Tech Stack
 
-- Java 21
+- Java 25
 - Spring Boot
 - Maven
 - PostgreSQL (planned)
